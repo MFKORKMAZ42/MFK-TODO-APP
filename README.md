@@ -1,7 +1,15 @@
 # TODO APP PROJECT
-MY LİST
+
+# MY LİST
 <br/>   
-Bu kişisel liste de Html,Css,Javascript ve React kullanılarak hazırlanmıştır.. <br/>
+Bu kişisel liste de Html,Css,Javascript ve React kullanılarak hazırlanmıştır.. 
+
+<br/>
+
+![](https://github.com/MFKORKMAZ42/MFK-TODO-APP/blob/master/TODO-APP.gif)
+
+<br/>
+
 <img src="https://github.com/MFKORKMAZ42/MFK-TODO-APP/blob/master/src/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC%20(7).png"/><br/>
  <br/>
 
