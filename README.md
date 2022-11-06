@@ -3,6 +3,7 @@
 # MY LİST
 <br/>   
 <b>This personal list has been prepared using Html, Css, Javascript and React. </b>
+</br>
 <i>(Bu kişisel liste Html,Css,Javascript ve React kullanılarak hazırlanmıştır..)</i>
 </br>
 
